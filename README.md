@@ -33,7 +33,7 @@
 </td>
 <!--<td><a href="https://scholar.google.com.br/citations?user=OARYxSYAAAAJ&hl=pt-BR&oi=ao" target="_blank"><img src="https://github.com/brksam/brksam/blob/main/img/scholar2.png?raw=true" width="50px" height="50px"/></a>-->
 </td>
-<td><a href="https://calendly.com/aramuni/" target="_blank"><img src="https://github.com/brksam/brksam/blob/main/img/calendar2.png?raw=true" width="50px" height="50px"/></a>
+<!--<td><a href="https://calendly.com/aramuni/" target="_blank"><img src="https://github.com/brksam/brksam/blob/main/img/calendar2.png?raw=true" width="50px" height="50px"/></a>-->
 </td>
 </tr>
 <tr>
@@ -43,7 +43,7 @@
 
 </div>
 <div align="justify">
-<i><b>Olá</b> :wave:, sou o <code>Aramuni</code>, tenho 33 anos, moro em BH e sou programador desde os 15 anos de idade. Atualmente sou <code>professor</code> nos cursos de Ciência da Computação, Sistemas de Informação e Análise e Desenvolvimento de Sistemas do <a href="https://newtonpaiva.br/" target="_blank">Centro Universitário Newton Paiva</a> e também nos cursos de Engenharia de Software e Ciência da Computação da <a href="https://www.pucminas.br/" target="_blank">PUC Minas</a>.</i> :man_teacher:<br />
+<i><b>Olá</b> :wave:, sou o <code>Samuel</code>, tenho 19 anos, moro em BH e sou programador há 1 ano. Atualmente sou <code>Dev Júnior</code> cursando Análise e Desenvolvimento de Sistemas no <a href="https://newtonpaiva.br/" target="_blank">Centro Universitário Newton Paiva</a>.</i> :man_teacher:<br />
 </div>
 
 -----
