@@ -64,7 +64,7 @@ Sou um profissional apaixonado pela área da computação, com pouco tempo de ex
 
 <div align="justify">
 <p> 
-- :man_teacher: &nbsp; Na <a href="https://newtonpaiva.br/" target="_blank">Newton Paiva</a>, sou <code>Estudante</code> de Análise e Desenvolvimento de Sistemas.
+- :man_teacher: &nbsp;Na <a href="https://newtonpaiva.br/" target="_blank">Newton Paiva</a>, sou <code>Estudante</code> de Análise e Desenvolvimento de Sistemas.
 - :mortar_board: &nbsp; 
 - :alien: &nbsp; Adoro <code>Back-end</code>.<br />
 - :necktie: &nbsp; Na <a href="https://www.alura.com.br/" target="_blank">Alura</a>, estou <code>Cursando</code> diversas matérias <br /> entre elas Java e Python seria um exemplo. :airplane:<br />
