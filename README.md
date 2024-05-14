@@ -67,7 +67,7 @@ Sou um profissional apaixonado pela área da computação, com pouco tempo de ex
 - :man_teacher: &nbsp;Na <a href="https://newtonpaiva.br/" target="_blank">Newton Paiva</a>, sou <code>Estudante</code> de Análise e Desenvolvimento de Sistemas.
 - :mortar_board: &nbsp; <br />
 - :alien: &nbsp; Adoro <code>Back-end</code>.<br />
-- :necktie: &nbsp; Na <a href="https://www.alura.com.br/" target="_blank">Alura</a>, estou <code>Cursando</code> diversas matérias <br /> entre elas Java e Python seria um exemplo. :airplane:<br />
+- :necktie: &nbsp; Na <a href="https://www.alura.com.br/" target="_blank">Alura</a>, estou <code>Cursando</code> diversas matérias <br /> entre elas Java e Python, etc. :airplane:<br />
 - :briefcase: &nbsp; Improving my English.<br />
 - :man_teacher: &nbsp; No <a href="https://www.fiemg.com.br/senai/" target="_blank">Senai</a> cursei Metodologias Ageis, <br />Versionamento com Git, C++ e Python.<br />
 - :atom: &nbsp; Sou entusiasta da Linguagem Java, veja alguns códigos que fiz <a href="https://github.com/brksam/LOTOFACIL-TELA" target="_blank">aqui</a>.<br />(Você pode acessar também <a href="https://github.com/brksam/LOTOFACIL-ATIVIDADE" target="_blank">Sem Interface Gráfica</a>? :thinking:)<br />
