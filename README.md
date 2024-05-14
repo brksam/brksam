@@ -57,7 +57,7 @@ Sou um profissional apaixonado pela área da computação, com pouco tempo de ex
 
 <div>
 <div>
-<img align="right" alt="GIF" src="https://github.com/brksam/brksam/blob/main/img/dev2.gif?raw=true" width="200px" height="520px"/>
+<img align="right" alt="GIF" src="https://github.com/brksam/brksam/blob/main/img/dev2.gif?raw=true" width="320px" height="320px"/>
 </div>
 
 <img height="20" alt="GIF" src="https://github.com/brksam/brksam/blob/main/img/soulgem.gif?raw=true"/>Meus interesses pessoais:
