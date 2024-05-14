@@ -57,7 +57,7 @@ Sou um profissional apaixonado pela área da computação, com pouco tempo de ex
 
 <div>
 <div>
-<img align="right" alt="GIF" src="https://github.com/brksam/brksam/blob/main/img/dev2.gif?raw=true" width="340px" height="520px"/>
+<img align="right" alt="GIF" src="https://github.com/brksam/brksam/blob/main/img/dev2.gif?raw=true" width="200px" height="520px"/>
 </div>
 
 <img height="20" alt="GIF" src="https://github.com/brksam/brksam/blob/main/img/soulgem.gif?raw=true"/>Meus interesses pessoais:
@@ -65,7 +65,7 @@ Sou um profissional apaixonado pela área da computação, com pouco tempo de ex
 <div align="justify">
 <p> 
 - :man_teacher: &nbsp;Na <a href="https://newtonpaiva.br/" target="_blank">Newton Paiva</a>, sou <code>Estudante</code> de Análise e Desenvolvimento de Sistemas.
-- :mortar_board: &nbsp; 
+- :mortar_board: &nbsp; <br />
 - :alien: &nbsp; Adoro <code>Back-end</code>.<br />
 - :necktie: &nbsp; Na <a href="https://www.alura.com.br/" target="_blank">Alura</a>, estou <code>Cursando</code> diversas matérias <br /> entre elas Java e Python seria um exemplo. :airplane:<br />
 - :briefcase: &nbsp; Improving my English.<br />
