@@ -57,7 +57,7 @@ Sou um profissional apaixonado pela área da computação, com pouco tempo de ex
 
 <div>
 <div>
-<img align="right" alt="GIF" src="https://github.com/brksam/brksam/blob/main/img/dev2.gif?raw=true" width="320px" height="320px"/>
+<img align="right" alt="GIF" src="https://github.com/brksam/brksam/blob/main/img/dev2.gif?raw=true" width="320px" height="345px"/>
 </div>
 
 <img height="20" alt="GIF" src="https://github.com/brksam/brksam/blob/main/img/soulgem.gif?raw=true"/>Meus interesses pessoais:
@@ -72,7 +72,7 @@ Sou um profissional apaixonado pela área da computação, com pouco tempo de ex
 - :man_teacher: &nbsp; No <a href="https://www.fiemg.com.br/senai/" target="_blank">Senai</a> cursei Metodologias Ageis, <br />Versionamento com Git, C++ e Python.<br />
 - :atom: &nbsp; Sou entusiasta da Linguagem Java, veja alguns códigos que fiz <a href="https://github.com/brksam/LOTOFACIL-TELA" target="_blank">aqui</a>.<br />(Você pode acessar também <a href="https://github.com/brksam/LOTOFACIL-ATIVIDADE" target="_blank">Sem Interface Gráfica</a>? :thinking:)<br />
 - :soccer: &nbsp; Sou atleticano, torço para o <a href="https://www.arenamrv.com.br/" target="_blank">galão</a>. :rooster:<br />
-- :basketball: &nbsp; Meus hobbies são <a href="https://store.epicgames.com/pt-BR/p/fortnite" target="_blank">Fortnite</a>, <a href="https://playvalorant.com/pt-br/" target="_blank">Valorant</a>, <a href="https://osu.ppy.sh/users/35289335" target="_blank">Osu</a>, guitarra.<br />
+- :basketball: &nbsp; Meus hobbies são <a href="https://store.epicgames.com/pt-BR/p/fortnite" target="_blank">Fortnite</a>, <a href="https://playvalorant.com/pt-br/" target="_blank">Valorant</a>, <a href="https://osu.ppy.sh/users/35289335" target="_blank">Osu</a> e Futebol.<br />
 - :speech_balloon: &nbsp; Pergunte-me sobre qualquer coisa, adoro ajudar pessoas.<br />
 - :mailbox: &nbsp; Para me encontrar, esse é meu <a href="mailto:samuka.samuca321@gmail.com" target="_blank">e-mail</a> pessoal.<br />
 </p>
