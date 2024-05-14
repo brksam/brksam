@@ -19,7 +19,7 @@
 </td>
 <td><a href="https://wa.me/5531991158344" target="_blank"><img src="https://github.com/brksam/brksam/blob/main/img/wpp2.png?raw=true" width="50px" height="50px"/></a>
 </td>
-<td><a href="https://www.instagram.com/brk.sml/" target="_blank"><img src="https://github.com/brksam/brksam/blob/main/img/insta2.png?raw=true" width="50px" height="50px"/></a>
+<td><a href="https://www.instagram.com/@brk.sml/" target="_blank"><img src="https://github.com/brksam/brksam/blob/main/img/insta2.png?raw=true" width="50px" height="50px"/></a>
 </td>
 <td><a href="https://www.linkedin.com/in/samuel-souto-352252276" target="_blank"><img src="https://github.com/brksam/brksam/blob/main/img/linkedin2.gif?raw=true" width="50px" height="50px"/></a>
 </td>
