@@ -200,7 +200,7 @@ Sou um profissional apaixonado pela área da computação, com pouco tempo de ex
 </div>
 
 -----
-
+<!--
 <div>
 <table align="right">
 <tr>
