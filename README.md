@@ -118,6 +118,7 @@ Sou um profissional apaixonado pela área da computação, com pouco tempo de ex
 &nbsp;
 <code><a href="https://www.jetbrains.com/idea/" target="_blank"><img width="32" height="32" src="https://github.com/brksam/brksam/blob/main/img/intellij.png?raw=true"/></a></code>
 &nbsp;
+<br />
 </div>
 
 <img height="20" alt="GIF" src="https://github.com/brksam/brksam/blob/main/img/graphic.gif?raw=true"/>GitHub Stats:
