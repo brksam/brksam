@@ -100,7 +100,7 @@ Sou um profissional apaixonado pela área da computação, com pouco tempo de ex
 <code><a href="https://www.primefaces.org/" target="_blank"><img width="32" height="32" src="https://github.com/brksam/brksam/blob/main/img/primefaces.png?raw=true"/></a></code>
 &nbsp;
 <code><a href="https://www.w3schools.com/html/" target="_blank"><img width="32" height="32" src="https://github.com/brksam/brksam/blob/main/img/html.svg?raw=true"/>
-</a></code>
+</a></code>&nbsp;
 <code><a href="https://www.w3schools.com/css/" target="_blank"><img width="32" height="32" src="https://github.com/brksam/brksam/blob/main/img/css.svg?raw=true"/>
 </a></code>&nbsp;
 <code><a href="https://www.mysql.com/" target="_blank"><img width="32" height="32" src="https://github.com/brksam/brksam/blob/main/img/mysql.png?raw=true"/></a></code>
