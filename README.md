@@ -103,8 +103,7 @@ Sou um profissional apaixonado pela área da computação, com pouco tempo de ex
 &nbsp;
 
 <code><a href="https://www.w3schools.com/css/" target="_blank"><img width="32" height="32" src="https://github.com/brksam/brksam/blob/main/img/css.svg?raw=true"/>
-&nbsp;
-</a></code>
+</a></code>&nbsp;
 <code><a href="https://www.mysql.com/" target="_blank"><img width="32" height="32" src="https://github.com/brksam/brksam/blob/main/img/mysql.png?raw=true"/></a></code>
 &nbsp; 
 <code><a href="https://www.mongodb.com/pt-br" target="_blank"><img width="32" height="32" src="https://github.com/brksam/brksam/blob/main/img/mongodb.png?raw=true"/></a></code>
