@@ -167,18 +167,8 @@ Sou um profissional apaixonado pela área da computação, com pouco tempo de ex
 <img src="https://img.shields.io/badge/C-Enthusiast-blue"/>
 <img src="https://img.shields.io/badge/Clean%20Code-Evangelist-blue"/>
 <br />
-<img src="https://img.shields.io/badge/Flask-Dev-blue?logo=Flask"/>
-<img src="https://img.shields.io/badge/FastAPI-Dev-blue?logo=FastAPI"/>
-<img src="https://img.shields.io/badge/JavaScript-Dev-blue?logo=javascript"/>
-<img src="https://img.shields.io/badge/Node.js-Dev-blue?logo=Node.js"/>
-<img src="https://img.shields.io/badge/Next.js-Dev-blue?logo=Next.js"/>
 <img src="https://img.shields.io/badge/AWS-Dev-blue?logo=amazonaws"/>
-<img src="https://img.shields.io/badge/Docker-Dev-blue?logo=docker"/>
-<img src="https://img.shields.io/badge/Grafana-Dev-blue?logo=grafana"/>
-<img src="https://img.shields.io/badge/New%20Relic-Dev-blue?logo=newrelic"/>
 <a href="https://github.com/pythonmg" target="_blank"><img alt="Python-MG" src="https://img.shields.io/badge/Siga%20a%20comunidade%20mineira%20de%20python%3A-Python--MG-blue?logo=Python"/></a>
-<img src="https://img.shields.io/badge/OS-macOS-informational?logo=apple&logoColor=white"/>
-<img src="https://img.shields.io/badge/OS-Linux-informational?logo=linux&logoColor=white"/>
 <br />
 <img alt="Profile visitors" src="https://komarev.com/ghpvc/?username=joaopauloaramuni"/>
 <img alt="Forks" src="https://img.shields.io/github/forks/joaopauloaramuni/joaopauloaramuni?logo=git"/>
