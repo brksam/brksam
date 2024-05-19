@@ -173,8 +173,7 @@ Sou um profissional apaixonado pela área da computação, com pouco tempo de ex
 <img alt="Profile visitors" src="https://komarev.com/ghpvc/?username=brksam"/>
 <img alt="Lines of code" src="https://img.shields.io/badge/Somando--se%20os%20reposit%C3%B3rios%3A-%2B100%20mil%20linhas%20de%20c%C3%B3digo%20compartilhadas-blue?logo=GitHub"/>
 <br />
-<img alt="Followers" src="https://img.shields.io/github/followers/joaopauloaramuni?style=social"/>
-<a href="https://github.com/brksam/brksam/blob/main/img/pix2.png?raw=true" target="_blank"><img alt="Coffee" src="https://img.shields.io/badge/Buy%20me%20a%20coffee-white?logo=buymeacoffee&logoColor=black"/></a>
+<img alt="Followers" src="https://img.shields.io/github/followers/brksam?style=social"/>
 </div>
 
 -----
