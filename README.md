@@ -99,10 +99,11 @@ Sou um profissional apaixonado pela área da computação, com pouco tempo de ex
 &nbsp; 
 <code><a href="https://www.primefaces.org/" target="_blank"><img width="32" height="32" src="https://github.com/brksam/brksam/blob/main/img/primefaces.png?raw=true"/></a></code>
 &nbsp;
-<code><a href="https://www.w3schools.com/html/" target="_blank"><img width="32" height="32" src="https://github.com/brksam/brksam/blob/main/img/html.svg?raw=true"/>
-</a></code>&nbsp;
-<code><a href="https://www.w3schools.com/css/" target="_blank"><img width="32" height="32" src="https://github.com/brksam/brksam/blob/main/img/css.svg?raw=true"/>
-</a></code>&nbsp;
+<code><a href="https://www.w3schools.com/html/" target="_blank"><img width="32" height="32" src="https://github.com/brksam/brksam/blob/main/img/html.svg?raw=true"/></a></code>
+&nbsp;
+<code><a href="https://www.w3schools.com/css/" target="_blank"><img width="32" height="32" src="https://github.com/brksam/brksam/blob/main/img/css.svg?raw=true"/></a></code>
+&nbsp;
+<br />
 <code><a href="https://www.mysql.com/" target="_blank"><img width="32" height="32" src="https://github.com/brksam/brksam/blob/main/img/mysql.png?raw=true"/></a></code>
 &nbsp; 
 <code><a href="https://www.mongodb.com/pt-br" target="_blank"><img width="32" height="32" src="https://github.com/brksam/brksam/blob/main/img/mongodb.png?raw=true"/></a></code>
@@ -145,15 +146,6 @@ Sou um profissional apaixonado pela área da computação, com pouco tempo de ex
 <img alt="Spotify" width="200px" height="270px" src="https://spotify-github-profile.vercel.app/api/view?uid=ffpnvh7gozm5xezuca35cnr8q&cover_image=true&theme=default"/> &nbsp; &nbsp; 
 <img alt="Spotify list" width="200px" height="270px" src="https://spotify-recently-played-readme.vercel.app/api?user=ffpnvh7gozm5xezuca35cnr8q&count=10"/>
 </div>
-<div>
-<details>
-<summary>:headphones: :guitar: :drum:</summary>
-
-[Charlie Brown Jr. - Céu Azul Ao Vivo - Chegou Quem Faltava](https://github.com/joaopauloaramuni/joaopauloaramuni/assets/58268075/c6568311-54c8-4c00-aced-26aacd69f8a1)
-
-</details>
-</div>
-</div>
 
 -----
 
@@ -172,9 +164,7 @@ Sou um profissional apaixonado pela área da computação, com pouco tempo de ex
 <img src="https://img.shields.io/badge/Python-Expert-blue?logo=Python"/>
 <img src="https://img.shields.io/badge/Java-Expert-blue"/>
 <img src="https://img.shields.io/badge/C-Enthusiast-blue"/>
-<img src="https://img.shields.io/badge/TDD-Advocate-blue"/>
 <img src="https://img.shields.io/badge/Clean%20Code-Evangelist-blue"/>
-<img src="https://img.shields.io/badge/Open%20Source-Lover-blue?logo=opensourceinitiative"/>
 <br />
 <img src="https://img.shields.io/badge/Flask-Dev-blue?logo=Flask"/>
 <img src="https://img.shields.io/badge/FastAPI-Dev-blue?logo=FastAPI"/>
