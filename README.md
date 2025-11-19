@@ -74,7 +74,7 @@ Atualmente cursando **Análise e Desenvolvimento de Sistemas** na Newton Paiva e
 ---
 
 ## 🎧 Spotify (Opcional)
-> *Pode deixar essa parte se quiser manter seu estilo pessoal.*
+> 
 
 ---
 
